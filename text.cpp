@@ -15,6 +15,7 @@ void Text::valueChanged(){
         emit notifySumText();
         emit notifyMeanText();
         emit notifyMaxText();
+        emit notifyMinText();
     }
 
 }

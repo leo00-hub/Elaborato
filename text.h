@@ -17,6 +17,7 @@ signals:
     void notifySumText();
     void notifyMeanText();
     void notifyMaxText();
+    void notifyMinText();
 };
 
 #endif // TEXT_H
